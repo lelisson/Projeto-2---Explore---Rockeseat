@@ -3,7 +3,10 @@ body {font-family: "Open Sans", sans-serif;
     margin:auto;
 
 }
+#hero{
+    margin-top: 64px;
 
+}
 h1{
     font-family: "Dosis", sans-serif;
     color: rgba(63, 61, 86, 1);
@@ -20,8 +23,4 @@ strong {
 
 p{
     color: rgba(130, 130, 130, 1);  
-}
-#hero{
-    margin-top: 64px;
-
 }
