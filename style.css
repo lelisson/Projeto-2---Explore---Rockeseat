@@ -6,14 +6,21 @@ body {font-family: "Open Sans", sans-serif;
 
 h1{
     font-family: "Dosis", sans-serif;
-    
+    color: rgba(63, 61, 86, 1);
 }
 
-span {
-   color:rgba(238, 36, 255, 1);
+.destino {
+   color: rgba(238, 36, 255, 1);
+}
+
+strong {
+   color:rgba(63, 61, 86, 1);
 
 }   
 
+p{
+    color: rgba(130, 130, 130, 1);  
+}
 #hero{
     margin-top: 64px;
 
